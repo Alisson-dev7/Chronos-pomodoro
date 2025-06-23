@@ -1,0 +1,8 @@
+.input{
+  background-color: transparent;
+  border: none;
+  text-align: center;
+  font-size: 1.8rem;
+  padding: 0.8rem;
+  border: 0.2rem solid var(--primary);
+}
